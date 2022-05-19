@@ -1,0 +1,16 @@
+h1, h2, h3, h4 {
+    color: red;
+}
+h5{
+    color: blue;
+}
+.mainpage{
+   padding: 20px;
+    text-align: center;
+}
+.wrapp{
+    background: antiquewhite;
+}
+.active{
+    color: #00FF37FF;
+}
